@@ -1,0 +1,4 @@
+Skills: 
+1. Tools - GitBush, GitHub, Postman, Jmetr, Fidler, Scrum, Android Studio, Xcode, Charles, Dev Tools.
+2. Структура Json и XML, основы SQL, VPN, снятие и чтениле логов, тестирование API, Python.
+3. Spoken English, Soft skills.
